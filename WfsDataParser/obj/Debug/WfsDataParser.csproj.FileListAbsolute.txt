@@ -1,0 +1,9 @@
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\bin\Debug\WfsDataParser.exe.config
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\bin\Debug\WfsDataParser.exe
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\bin\Debug\WfsDataParser.pdb
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\obj\Debug\WfsDataParser.csprojResolveAssemblyReference.cache
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\obj\Debug\WfsDataParser.exe
+C:\Users\HDSL115\Desktop\WfsDataParser\WfsDataParser\obj\Debug\WfsDataParser.pdb
+E:\My_Task\WfsDataParser\WfsDataParser\bin\Debug\WfsDataParser.exe.config
+E:\My_Task\WfsDataParser\WfsDataParser\obj\Debug\WfsDataParser.exe
+E:\My_Task\WfsDataParser\WfsDataParser\obj\Debug\WfsDataParser.pdb
